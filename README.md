@@ -1,4 +1,9 @@
     
+   
+   ![screen shot 2015-05-28 at 15 55             53](https://cloud.githubusercontent.com/assets/5831653/7860513/87d6a662-0552-11e5-9b82-054e8fcb3dba.png)
+   
+   
+   
     Installation
 
     Add the CAProgressBar.h and CAProgressBar.m source files to your project.
