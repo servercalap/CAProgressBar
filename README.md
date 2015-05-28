@@ -1,5 +1,5 @@
+    
     Installation
-
 
     Add the CAProgressBar.h and CAProgressBar.m source files to your project.
     Download the latest code version or add the repository as a git submodule to your git-tracked project.
